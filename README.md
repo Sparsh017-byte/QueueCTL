@@ -39,7 +39,7 @@ Unique IDs	uuid
 Dev Tool	nodemon
 ## 📦 Installation
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR_USERNAME/queuectl.git
+
 cd queuectl
 
 2️⃣ Install Dependencies
@@ -100,11 +100,3 @@ Each job stored in MongoDB contains:
   "nextRun": "2025-11-14T10:20:00Z"
 }
 
-## 🧪 Tests (Optional)
-
-If using Jest, run:
-
-npm test
-
-
-Tests are stored inside /tests.

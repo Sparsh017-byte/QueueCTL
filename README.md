@@ -86,7 +86,7 @@ Attempt	Delay
 2	4000 ms
 3	8000 ms
 
-You can customize this inside src/core/backoff.js.
+
 
 ## 📝 Job Schema Example
 
